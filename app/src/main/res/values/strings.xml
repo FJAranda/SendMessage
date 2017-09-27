@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvMensaje">Mensaje</string>
+    <string name="btnOk">OK</string>
+    <string name="tvViewUser">Un usuario te ha enviado un mensaje</string>
+</resources>
