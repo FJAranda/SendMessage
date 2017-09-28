@@ -14,7 +14,6 @@
         android:layout_marginTop="8dp"
         >
         <TextView
-            android:labelFor="@id/etUsuario"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tvUsuario"
@@ -37,7 +36,6 @@
         android:layout_marginRight="8dp"
         >
         <TextView
-            android:labelFor="@id/etMensaje"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tvMensaje"

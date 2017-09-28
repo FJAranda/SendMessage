@@ -3,5 +3,5 @@
     <string name="tvUsuario">Usuario</string>
     <string name="tvMensaje">Mensaje</string>
     <string name="btnOk">OK</string>
-    <string name="tvViewUser">Un usuario te ha enviado un mensaje</string>
+    <string name="tvViewUser">El usuario <b>%1$s</b> te ha enviado un mensaje</string>
 </resources>
