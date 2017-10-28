@@ -3,7 +3,10 @@ package com.example.sendmessage.POJO;
 import java.io.Serializable;
 
 /**
- * Created by usuario on 29/09/17.
+ * @author Francisco Javier Aranda Caro
+ * @version 1.0
+ *
+ * Clase POJO que contiene los mensajes.
  */
 
 public class Message implements Serializable{

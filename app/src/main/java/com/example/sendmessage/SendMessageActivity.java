@@ -10,6 +10,25 @@ import android.widget.EditText;
 
 import com.example.sendmessage.POJO.Message;
 
+/**
+ * @author Francisco Javier Aranda Caro
+ * @version 1.0
+ *
+ * <h1>Clase que contiene el comportamiento de la Activity SendMessage</h1>
+ * <p>Conceptos aprendidos en la practica:</p>
+ *   <ul>
+ *   <li>Concepto Contexto</li>
+ *   <li>Paso de parametro mediante el objeto @see android.os.Bundle </li>
+ *   <li>Paso de mensajes entre dos actividades mediante la clase @see android.content.Intent</li>
+ *   <li>Creacion de documentacion en proyectos de Android Studio</li>
+ *   <li>Uso del metodo Log.d() para debug</li>
+ *   <li>Formato automatico mediante el entorno(Code/Reformat Code)</li>
+ *   <li>Uso de la opcion Surroding(Code/Surronding with...)</li>
+ *   <li>Crear clases y paquetes</li>
+ *   <li>Generar codigo automaticamente</li>
+ *   <li>Enviar un objeto customizado por bundle</li>
+ *   </ul>
+ * */
 public class SendMessageActivity extends AppCompatActivity implements View.OnClickListener{
     private EditText etMensaje;
     private EditText etUsuario;

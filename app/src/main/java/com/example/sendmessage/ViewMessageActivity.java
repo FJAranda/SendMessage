@@ -7,6 +7,13 @@ import android.widget.TextView;
 
 import com.example.sendmessage.POJO.Message;
 
+/**
+ * @author Francisco Javier Aranda Caro
+ * @version 1.0
+ *
+ * Clase que contiene el comportamiento de la Activity ViewMessage
+ * */
+
 public class ViewMessageActivity extends AppCompatActivity {
     private TextView tvViewUser;
     private TextView tvViewMessage;
